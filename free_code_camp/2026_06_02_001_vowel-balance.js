@@ -8,9 +8,16 @@ function isBalanced(s) {
 
   const vowels = ['a', 'e', 'i', 'o', 'u'];
 
-  const vowelCnt = tempStr.toLowerCase().split("").filter(char => vowels.includes(char)).length;
+  const lStr = tempStr.slice(0, strLen / 2).toLowerCase();
+  const lVowelCnt = lStr.toLowerCase().split("").filter(char => vowels.includes(char)).length;
 
-  return vowelCnt % 2 == 0;
+  const rStr = tempStr.slice(strLen / 2).toLowerCase();
+  const rVowelCnt = rStr.toLowerCase().split("").filter(char => vowels.includes(char)).length;
+
+  console.log(lStr + ": " + String(lVowelCnt));
+  console.log(rStr + ": " + String(rVowelCnt));
+
+  return lVowelCnt === rVowelCnt;
 }
 
 function removeAtIndex(str, index){
