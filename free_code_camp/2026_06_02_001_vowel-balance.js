@@ -9,7 +9,7 @@
   • If there's an odd number of characters in the string, ignore the center character.
 - Approach: Remove the center character for odd-length strings, split the remaining
   string into two halves, count vowels in each half, and compare the counts.
-- Notes: Used basic string methods and array filtering. Removed debug output before commit.
+- Notes: Used basic string methods and array filtering.
 
 ***************************************/
 
