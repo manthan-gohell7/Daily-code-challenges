@@ -12,7 +12,7 @@
 function isValidNumber(n, base) {
   var isValid = false;
 
-  if(!(/^[a-zA-Z0-9]+$/)){
+  if(!(/^[a-zA-Z0-9]+$/.test(n))){
     return isValid;
   }
 
