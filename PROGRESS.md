@@ -7,7 +7,7 @@ This file tracks all completed coding challenges in chronological order.
 | # | Date | Platform | Challenge | Topic | Difficulty |
 |---|------|----------|-----------|--------|------------|
 | 1 | 2026-06-02 | freeCodeCamp | Vowel Balance | Strings | Easy |
-| 2 | 2026-06-03 | freeCodeCamp | Base Check | Strings, Numbers | Easy |
+| 2 | 2026-06-03 | freeCodeCamp | Base Check | Strings, Numbers, Regex | Easy |
 
 
 ---
@@ -27,9 +27,6 @@ This file tracks all completed coding challenges in chronological order.
 ## Statistics
 
 - freeCodeCamp: 2
-- LeetCode: 0
-- HackerRank: 0
-- Codewars: 0
 
 ---
 
@@ -37,3 +34,4 @@ This file tracks all completed coding challenges in chronological order.
 
 - Strings
 - Basic Array methods
+- Basics of Regex
