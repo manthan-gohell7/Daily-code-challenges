@@ -1,8 +1,10 @@
 /***************************************
 
+- Challenge #001
 - Date: 2026-06-02
 - Platform: freeCodeCamp
-- Challenge: Vowel Balance
+- Title: Vowel Balance
+- Topics: Strings
 - Description: Determine whether the number of vowels in the left half of a string is equal to the number of vowels in the right half. If the string length is odd, ignore the middle character.
   • The string can contain any characters.
   • The letters a, e, i, o, and u, in either uppercase or lowercase, are considered vowels.
