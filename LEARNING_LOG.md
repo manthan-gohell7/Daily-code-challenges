@@ -23,14 +23,30 @@ Platform: freeCodeCamp
 
 This challenge helped me think more carefully about input validation and digit ranges in different numeral systems.
 
+What I Learned:
+- Validation should happen before logic checks.
+- The allowed digits depend on the selected base.
+- Case-insensitive comparison matters when alphabetic characters are allowed.
+- Regex and string methods are useful for simple validation tasks.
+
+Challenge:
+- Determining whether each character falls within the valid digit range for the given base.
+
+Takeaway:
+- Breaking the problem into two steps—input validation and digit-range validation—made the solution easier to reason about and implement.
+
+## 2026-06-04 ~ Fibonacci Sequence
+Platform: freeCodeCamp
+
+This challenge helped me understand how to generate values based on previously computed results.
+
 What I learned:
-- Validation should happen before logic checks
-- The allowed digits depend on the base
-- Case-insensitive comparison matters when letters are allowed
-- Regex and string methods are useful for simple validation tasks
+- Fibonacci sequences can be generated iteratively without recursion
+- Array indices can be used to access previously generated values
+- Edge cases such as length 0 or lengths smaller than the starting sequence should be handled first
 
-Mistake:
-I had to be careful not to confuse general alphanumeric characters with characters that are actually valid for a specific base.
+Challenge:
+Determining how to continue the sequence while supporting different target lengths.
 
-Fix:
-Check the input string properly, then compare each character against the valid digit range for the given base.
+Takeaway:
+Breaking the problem into base cases and sequence generation made the implementation straightforward.
