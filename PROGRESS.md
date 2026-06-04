@@ -2,12 +2,13 @@
 
 This file tracks all completed coding challenges in chronological order.
 
-**Total Challenges Solved:** 2
+**Total Challenges Solved:** 3
 
 | # | Date | Platform | Challenge | Topic | Difficulty |
 |---|------|----------|-----------|--------|------------|
 | 1 | 2026-06-02 | freeCodeCamp | Vowel Balance | Strings | Easy |
 | 2 | 2026-06-03 | freeCodeCamp | Base Check | Strings, Numbers, Regex | Easy |
+| 3 | 2026-06-04 | freeCodeCamp | Fibonacci Sequence | Arrays, Iteration, Sequence Generation | Easy |
 
 
 ---
@@ -26,12 +27,13 @@ This file tracks all completed coding challenges in chronological order.
 
 ## Statistics
 
-- freeCodeCamp: 2
+- freeCodeCamp: 3
 
 ---
 
 ## Topics Covered
 
 - Strings
-- Basic Array methods
+- Basic Array Methods
 - Basics of Regex
+- Arrays Manipulation, Iteration, Sequence Generation
