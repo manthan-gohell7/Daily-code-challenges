@@ -36,4 +36,6 @@ This file tracks all completed coding challenges in chronological order.
 - Strings
 - Basic Array Methods
 - Basics of Regex
-- Arrays Manipulation, Iteration, Sequence Generation
+- Arrays Manipulation
+- Iteration
+- Sequence Generation
