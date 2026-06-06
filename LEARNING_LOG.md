@@ -50,3 +50,19 @@ Determining how to continue the sequence while supporting different target lengt
 
 Takeaway:
 Breaking the problem into base cases and sequence generation made the implementation straightforward.
+
+## 2026-06-04 ~ Space Jam
+Platform: freeCodeCamp
+
+This challenge helped me practice manual string transformation and character-by-character processing.
+
+What I Learned:
+- Spaces can be removed using direct character inspection
+- Uppercase conversion can be handled manually with character codes
+- Rebuilding a string step by step improves understanding of iteration and accumulation
+
+Challenge:
+- Transforming the string in the correct order while preserving non-alphabetical characters
+
+Takeaway:
+- Even simple string problems are useful for practicing low-level logic instead of depending only on built-in methods
