@@ -66,3 +66,19 @@ Challenge:
 
 Takeaway:
 - Even simple string problems are useful for practicing low-level logic instead of depending only on built-in methods
+
+## 2026-06-09 ~ Jumbled Text
+Platform: freeCodeCamp
+
+This challenge helped me practice sorting letters inside each word while preserving the word boundaries.
+
+What I Learned:
+- The first and last letters can be kept fixed while processing the middle part separately
+- Sorting the inner characters of a word is easier once the word is converted into an array
+- Rebuilding the final sentence word by word keeps the logic clean
+
+Challenge:
+- Handling each word independently while preserving the original sentence structure
+
+Takeaway:
+- Breaking the problem into smaller steps made the transformation easier to reason about
