@@ -2,7 +2,7 @@
 
 This file tracks all completed coding challenges in chronological order.
 
-**Total Challenges Solved:** 4
+**Total Challenges Solved:** 5
 
 | # | Date | Platform | Challenge | Topic | Difficulty |
 |---|------|----------|-----------|--------|------------|
@@ -10,6 +10,7 @@ This file tracks all completed coding challenges in chronological order.
 | 2 | 2026-06-03 | freeCodeCamp | Base Check | Strings, Numbers, Regex | Easy |
 | 3 | 2026-06-04 | freeCodeCamp | Fibonacci Sequence | Arrays, Iteration, Sequence Generation | Easy |
 | 4 | 2026-06-04 | freeCodeCamp | Space Jam | Strings, Iteration, Character Handling | Easy |
+| 5 | 2026-06-05 | freeCodeCamp | Jumbled Text | Strings, Sorting, Iteration, Word Processing | Easy |
 
 
 ---
@@ -28,7 +29,7 @@ This file tracks all completed coding challenges in chronological order.
 
 ## Statistics
 
-- freeCodeCamp: 4
+- freeCodeCamp: 5
 
 ---
 
@@ -42,3 +43,5 @@ This file tracks all completed coding challenges in chronological order.
 - Sequence Generation
 - Manual String Processing
 - Character Handling
+- Sorting
+- Word Processing
