@@ -82,3 +82,19 @@ Challenge:
 
 Takeaway:
 - Breaking the problem into smaller steps made the transformation easier to reason about
+
+## 2026-06-10 ~ Anagram Checker
+Platform: freeCodeCamp
+
+This challenge helped me practice frequency counting and character comparison.
+
+What I Learned:
+- Anagrams can be verified by comparing character frequencies instead of checking every possible arrangement.
+- Normalizing input first simplifies the comparison logic.
+- Hash maps are useful for tracking occurrences of characters efficiently.
+
+Challenge:
+- Ensuring that both character existence and character counts matched between the two strings.
+
+Takeaway:
+- Frequency counting is a powerful pattern that can be reused in many string and validation problems.
