@@ -97,4 +97,4 @@ Challenge:
 - Ensuring that both character existence and character counts matched between the two strings.
 
 Takeaway:
-- Frequency counting is a powerful pattern that can be reused in many string and validation problems.
+- I independently arrived at a frequency-counting solution using Map objects before knowing that this approach is commonly known as a Hash Map pattern.
